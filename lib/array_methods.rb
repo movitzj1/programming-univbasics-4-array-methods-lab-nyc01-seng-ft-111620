@@ -4,10 +4,11 @@ end
 
 def using_sort(array)
   soreted_array = array.Sort
+  sorted_array
 end
 
 def using_reverse(array)
-  array.reverse
+  reversed_array = array.reverse
 end
 
 def using_first(array)
