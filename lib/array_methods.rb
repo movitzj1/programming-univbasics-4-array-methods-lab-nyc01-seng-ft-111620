@@ -3,7 +3,7 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-  soreted_array = array.Sort
+  sorted_array = array.Sort
   sorted_array
 end
 
